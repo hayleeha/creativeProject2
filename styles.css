@@ -1,0 +1,46 @@
+body{
+	background-color: #828282;
+}
+
+form{
+	text-align: center;	
+}
+
+#playerResults{
+	font-size: 40px;
+	text-align: center;
+	padding: 10px;
+	color: #F7FFFF;
+	font-family: "Courier New", Courier, monospace	;
+
+}
+
+#playerInput{
+	padding: 10px;
+	font-size: 20px;
+
+}
+
+#playerSubmit{
+	padding: 10px;
+	margin: 5px;
+	font-size: 15px;
+}
+
+h1{
+	font-size: 85px;
+	padding: 40px;
+	margin: 40px;
+	text-align: center;
+	color: #F7FFFF;
+	font-family: "Courier New", Courier, monospace	;
+}
+
+h2{
+	font-size: 20px;
+	padding: 0px;
+	margin: 10px;
+	text-align: center;
+	color: #33CCC6;
+	font-family: "Courier New", Courier, monospace	;
+}
